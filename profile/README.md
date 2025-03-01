@@ -15,7 +15,7 @@ For API Testing, we utilized Cucumber, RestAssured, and TestNG to validate backe
 [Defect Report](https://drive.google.com/file/d/1iqNW8JUEmZNVLbhc9cvBoZyzwxoWSQy1/view?usp=drive_link)
 ## Tech Stack
 
-Cucumber, Selenium, and TestNG
+Cucumber, Selenium, Rest Assured and TestNG
 
 
 
